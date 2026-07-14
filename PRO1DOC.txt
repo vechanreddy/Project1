@@ -1,4 +1,4 @@
-class Emp {
+class Employee {
 	int empno;
 	String ename;
 	double sal;
