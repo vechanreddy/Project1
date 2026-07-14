@@ -2,4 +2,8 @@ class Emp {
 	int empno;
 	String ename;
 	int sal;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e995b0709b72a15c001e957028b6b6bf308313d2
