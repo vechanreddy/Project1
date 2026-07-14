@@ -1,4 +1,5 @@
 class Emp {
 	int empno;
 	String ename;
+	int sal;
 }
