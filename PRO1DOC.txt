@@ -4,6 +4,11 @@ class Emp {
 	double sal;
 
 }
+story 1
+class Pizza{
+int id;
+String name;
+}
 
 
 
