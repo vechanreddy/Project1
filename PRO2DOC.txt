@@ -1,0 +1,5 @@
+story1
+class Pizza{
+int id
+String name
+}
