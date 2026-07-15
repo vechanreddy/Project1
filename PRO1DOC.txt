@@ -9,6 +9,7 @@ class Pizza{
 int id;
 String name;
 double rating;
+String type;
 }
 
 
