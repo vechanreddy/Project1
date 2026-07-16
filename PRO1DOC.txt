@@ -14,3 +14,12 @@ String type;
 
 
 
+story 3
+class Milkshake{
+int id;
+double quantity;
+Milkshake(int id,double quantity){
+this.id=id;
+this.quantity=quantity;
+}
+}
