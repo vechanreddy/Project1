@@ -1,0 +1,6 @@
+story 1
+class CoolDrink{
+String brand;
+int[] quantity;
+int price;
+}
