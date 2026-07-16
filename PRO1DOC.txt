@@ -13,6 +13,20 @@ String type;
 }
 
 
+story 2
+class Biryani{
+int id;
+String type;
+double rating;
+
+Biryani(int id,String type,double rating){
+this.id=id;
+this.type=type;
+this.rating=rating;
+}
+} 
+
+
 
 story 3
 class Milkshake{
